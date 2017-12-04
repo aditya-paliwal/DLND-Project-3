@@ -1,6 +1,6 @@
 # Project Title
 
-Image Classification
+Using Recurring Network for Generation of TV Scripts
 
 ## Introduction
 
