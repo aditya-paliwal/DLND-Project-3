@@ -1,20 +1,19 @@
 # Project Title
 
-Using Recurring Network for Generation of TV Scripts
+Using Recurrent Neural Network for Generation of TV Scripts
 
 ## Introduction
 
-In this project we had to build a [Recurrent Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN) using [TensorFlow](https://www.tensorflow.org/) and use it to generate a new [Simpsons](https://en.wikipedia.org/wiki/The_Simpsons) TV script for a scene at [Moe's Tavern](https://simpsonswiki.com/wiki/Moe's_Tavern) using part of the [Simpsons dataset](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data) of scripts from 27 seasons. The project was written in Python (on a [_Jupyter Notebook_](https://github.com/HaraldoFilho/DLND-tv-script-generation/blob/master/dlnd_tv_script_generation.ipynb)) using the libraries _numpy_ and _tensorflow_, running on an _Anaconda_ environment
+This was my third project in Udacity 17-week Deep Learning Nanodegree Foundation. In this project, I built a [Recurrent Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN) using [TensorFlow](https://www.tensorflow.org/) and used it to generate a new [Simpsons](https://en.wikipedia.org/wiki/The_Simpsons) TV script for a scene at [Moe's Tavern](https://simpsonswiki.com/wiki/Moe's_Tavern) using part of the [Simpsons dataset](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data) of scripts from 27 seasons. The project was written in Python (on a [_Jupyter Notebook_](https://github.com/HaraldoFilho/DLND-tv-script-generation/blob/master/dlnd_tv_script_generation.ipynb)) using the libraries _numpy_ and _tensorflow_, running on an _Anaconda_ environment
 
 ### Prerequisites
 
-The requirments are listed as:
+The requirements are listed as:
 
 - Python3
 - Anaconda
 - Jupyter Notebook
-- numpy
-- TensorFlow
+- Libraries (numpy, tensorflow)
 
 ### Installing
 
@@ -45,11 +44,7 @@ The step by step code and execution can be seen in:
 
 project+3+code.ipynb
 
-### Review
 
-The complete project review by a Udacity Reviewer can be seen here:
-
-(https://review.udacity.com/#!/reviews/576150/shared)
 
 
 
